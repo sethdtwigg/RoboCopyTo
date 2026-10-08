@@ -265,3 +265,7 @@ These need a real Explorer session, UAC prompt, or hardware, so they are not aut
 - [ ] Save, edit, revert, and delete a custom preset.
 - [ ] Switch Windows between light and dark mode with the dialog open.
 - [ ] Unregister; the menu item is gone and no RoboCopyTo keys remain under HKCU.
+
+## License
+
+MIT License. Copyright (c) 2026 Seth Twigg. See [LICENSE](LICENSE).
