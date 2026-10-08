@@ -1,5 +1,6 @@
 # RoboCopyTo: A Safer, Smarter Robocopy GUI for Windows 11
 
+[![CI](https://github.com/sethdtwigg/RoboCopyTo/actions/workflows/ci.yml/badge.svg)](https://github.com/sethdtwigg/RoboCopyTo/actions/workflows/ci.yml)
 [![Latest release](https://img.shields.io/github/v/release/sethdtwigg/RoboCopyTo)](https://github.com/sethdtwigg/RoboCopyTo/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/sethdtwigg/RoboCopyTo/total)](https://github.com/sethdtwigg/RoboCopyTo/releases)
 [![License: MIT](https://img.shields.io/github/license/sethdtwigg/RoboCopyTo)](LICENSE)
