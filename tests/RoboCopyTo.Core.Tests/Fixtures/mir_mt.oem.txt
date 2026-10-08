@@ -1,0 +1,47 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thursday, October 8, 2026 3:12:26 PM
+   Source : C:\Fixture\src\
+     Dest : C:\Fixture\d\
+
+    Files : *.*
+	    
+  Options : *.* /FP /BYTES /TEE /S /E /DCOPY:DA /COPY:DAT /PURGE /MIR /NP /MT:8 /R:1 /W:1 
+
+------------------------------------------------------------------------------
+
+	  *EXTRA File 		       5	C:\Fixture\d\extra_in_dst.txt
+	    New File  		 5000000	C:\Fixture\src\big.bin
+	    New File  		       6	C:\Fixture\src\caf‚ r‚sum‚.txt
+	    New File  		      14	C:\Fixture\src\locked.txt
+2026/10/08 15:12:26 ERROR 32 (0x00000020) Copying File C:\Fixture\src\locked.txt
+The process cannot access the file because it is being used by another process.
+
+	    New File  		       9	C:\Fixture\src\new.txt
+	    Newer     		       9	C:\Fixture\src\newer_in_src.txt
+	    Older     		       9	C:\Fixture\src\older_in_src.txt
+	    New File  		       2	C:\Fixture\src\???????.txt
+	    New File  		       4	C:\Fixture\src\sub\deep.txtWaiting 1 seconds...
+	    New File  		      14	C:\Fixture\src\locked.txt
+2026/10/08 15:12:27 ERROR 32 (0x00000020) Copying File C:\Fixture\src\locked.txt
+The process cannot access the file because it is being used by another process.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         2         2         2         0         0         0
+   Files :         9         7         1         0         1         1
+   Bytes :   5000057   5000039         4         0        14         5
+   Times :   0:00:01   0:00:00                       0:00:00   0:00:01
+
+
+   Speed :           714,291,285 Bytes/sec.
+   Speed :            40,872.074 MegaBytes/min.
+   Ended : Thursday, October 8, 2026 3:12:27 PM
+

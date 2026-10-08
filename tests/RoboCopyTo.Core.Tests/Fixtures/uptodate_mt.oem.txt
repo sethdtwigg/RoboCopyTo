@@ -1,0 +1,26 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thursday, October 8, 2026 3:12:29 PM
+   Source : C:\Fixture\src\
+     Dest : C:\Fixture\d\
+
+    Files : *.*
+	    
+  Options : *.* /FP /BYTES /TEE /S /E /DCOPY:DA /COPY:DAT /NP /MT:8 /R:1 /W:1 
+
+------------------------------------------------------------------------------
+
+	  *EXTRA File 		       5	C:\Fixture\d\extra_in_dst.txt
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         2         2         2         0         0         0
+   Files :         9         0         9         0         0         1
+   Bytes :   5000057         0   5000057         0         0         5
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Thursday, October 8, 2026 3:12:29 PM
+

@@ -1,0 +1,233 @@
+
+ Log File : C:\Fixture\logs\many_mt.log
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thursday, October 8, 2026 3:27:21 PM
+   Source : C:\Fixture\many\src\
+     Dest : C:\Fixture\many\d\
+
+    Files : *.*
+	    
+  Options : *.* /FP /BYTES /TEE /S /E /DCOPY:DAT /COPY:DAT /NP /MT:8 /R:0 /W:0 
+
+------------------------------------------------------------------------------
+
+	    New File  		20000000	C:\Fixture\many\src\big1.bin
+	    New File  		30000000	C:\Fixture\many\src\big2.bin
+	    New File  		    1001	C:\Fixture\many\src\a\f1.dat
+	    New File  		    1010	C:\Fixture\many\src\a\f10.dat
+	    New File  		    1100	C:\Fixture\many\src\a\f100.dat
+	    New File  		    1101	C:\Fixture\many\src\a\f101.dat
+	    New File  		    1102	C:\Fixture\many\src\a\f102.dat
+	    New File  		    1103	C:\Fixture\many\src\a\f103.dat
+	    New File  		    1104	C:\Fixture\many\src\a\f104.dat
+	    New File  		    1105	C:\Fixture\many\src\a\f105.dat
+	    New File  		    1106	C:\Fixture\many\src\a\f106.dat
+	    New File  		    1107	C:\Fixture\many\src\a\f107.dat
+	    New File  		    1108	C:\Fixture\many\src\a\f108.dat
+	    New File  		    1109	C:\Fixture\many\src\a\f109.dat
+	    New File  		    1011	C:\Fixture\many\src\a\f11.dat
+	    New File  		    1110	C:\Fixture\many\src\a\f110.dat
+	    New File  		    1111	C:\Fixture\many\src\a\f111.dat
+	    New File  		    1112	C:\Fixture\many\src\a\f112.dat
+	    New File  		    1113	C:\Fixture\many\src\a\f113.dat
+	    New File  		    1114	C:\Fixture\many\src\a\f114.dat
+	    New File  		    1115	C:\Fixture\many\src\a\f115.dat
+	    New File  		    1116	C:\Fixture\many\src\a\f116.dat
+	    New File  		    1117	C:\Fixture\many\src\a\f117.dat
+	    New File  		    1118	C:\Fixture\many\src\a\f118.dat
+	    New File  		    1119	C:\Fixture\many\src\a\f119.dat
+	    New File  		    1012	C:\Fixture\many\src\a\f12.dat
+	    New File  		    1120	C:\Fixture\many\src\a\f120.dat
+	    New File  		    1121	C:\Fixture\many\src\a\f121.dat
+	    New File  		    1122	C:\Fixture\many\src\a\f122.dat
+	    New File  		    1123	C:\Fixture\many\src\a\f123.dat
+	    New File  		    1124	C:\Fixture\many\src\a\f124.dat
+	    New File  		    1125	C:\Fixture\many\src\a\f125.dat
+	    New File  		    1126	C:\Fixture\many\src\a\f126.dat
+	    New File  		    1127	C:\Fixture\many\src\a\f127.dat
+	    New File  		    1128	C:\Fixture\many\src\a\f128.dat
+	    New File  		    1129	C:\Fixture\many\src\a\f129.dat
+	    New File  		    1013	C:\Fixture\many\src\a\f13.dat
+	    New File  		    1130	C:\Fixture\many\src\a\f130.dat
+	    New File  		    1131	C:\Fixture\many\src\a\f131.dat
+	    New File  		    1132	C:\Fixture\many\src\a\f132.dat
+	    New File  		    1133	C:\Fixture\many\src\a\f133.dat
+	    New File  		    1134	C:\Fixture\many\src\a\f134.dat
+	    New File  		    1135	C:\Fixture\many\src\a\f135.dat
+	    New File  		    1136	C:\Fixture\many\src\a\f136.dat
+	    New File  		    1137	C:\Fixture\many\src\a\f137.dat
+	    New File  		    1138	C:\Fixture\many\src\a\f138.dat
+	    New File  		    1139	C:\Fixture\many\src\a\f139.dat
+	    New File  		    1014	C:\Fixture\many\src\a\f14.dat
+	    New File  		    1140	C:\Fixture\many\src\a\f140.dat
+	    New File  		    1141	C:\Fixture\many\src\a\f141.dat
+	    New File  		    1142	C:\Fixture\many\src\a\f142.dat
+	    New File  		    1143	C:\Fixture\many\src\a\f143.dat
+	    New File  		    1144	C:\Fixture\many\src\a\f144.dat
+	    New File  		    1145	C:\Fixture\many\src\a\f145.dat
+	    New File  		    1146	C:\Fixture\many\src\a\f146.dat
+	    New File  		    1147	C:\Fixture\many\src\a\f147.dat
+	    New File  		    1148	C:\Fixture\many\src\a\f148.dat
+	    New File  		    1149	C:\Fixture\many\src\a\f149.dat
+	    New File  		    1015	C:\Fixture\many\src\a\f15.dat
+	    New File  		    1150	C:\Fixture\many\src\a\f150.dat
+	    New File  		    1016	C:\Fixture\many\src\a\f16.dat
+	    New File  		    1017	C:\Fixture\many\src\a\f17.dat
+	    New File  		    1018	C:\Fixture\many\src\a\f18.dat
+	    New File  		    1019	C:\Fixture\many\src\a\f19.dat
+	    New File  		    1002	C:\Fixture\many\src\a\f2.dat
+	    New File  		    1020	C:\Fixture\many\src\a\f20.dat
+	    New File  		    1021	C:\Fixture\many\src\a\f21.dat
+	    New File  		    1022	C:\Fixture\many\src\a\f22.dat
+	    New File  		    1023	C:\Fixture\many\src\a\f23.dat
+	    New File  		    1024	C:\Fixture\many\src\a\f24.dat
+	    New File  		    1025	C:\Fixture\many\src\a\f25.dat
+	    New File  		    1026	C:\Fixture\many\src\a\f26.dat
+	    New File  		    1027	C:\Fixture\many\src\a\f27.dat
+	    New File  		    1028	C:\Fixture\many\src\a\f28.dat
+	    New File  		    1029	C:\Fixture\many\src\a\f29.dat
+	    New File  		    1003	C:\Fixture\many\src\a\f3.dat
+	    New File  		    1030	C:\Fixture\many\src\a\f30.dat
+	    New File  		    1031	C:\Fixture\many\src\a\f31.dat
+	    New File  		    1032	C:\Fixture\many\src\a\f32.dat
+	    New File  		    1033	C:\Fixture\many\src\a\f33.dat
+	    New File  		    1034	C:\Fixture\many\src\a\f34.dat
+	    New File  		    1035	C:\Fixture\many\src\a\f35.dat
+	    New File  		    1036	C:\Fixture\many\src\a\f36.dat
+	    New File  		    1037	C:\Fixture\many\src\a\f37.dat
+	    New File  		    1038	C:\Fixture\many\src\a\f38.dat
+	    New File  		    1039	C:\Fixture\many\src\a\f39.dat
+	    New File  		    1004	C:\Fixture\many\src\a\f4.dat
+	    New File  		    1040	C:\Fixture\many\src\a\f40.dat
+	    New File  		    1041	C:\Fixture\many\src\a\f41.dat
+	    New File  		    1042	C:\Fixture\many\src\a\f42.dat
+	    New File  		    1043	C:\Fixture\many\src\a\f43.dat
+	    New File  		    1044	C:\Fixture\many\src\a\f44.dat
+	    New File  		    1045	C:\Fixture\many\src\a\f45.dat
+	    New File  		    1046	C:\Fixture\many\src\a\f46.dat
+	    New File  		    1047	C:\Fixture\many\src\a\f47.dat
+	    New File  		    1048	C:\Fixture\many\src\a\f48.dat
+	    New File  		    1049	C:\Fixture\many\src\a\f49.dat
+	    New File  		    1005	C:\Fixture\many\src\a\f5.dat
+	    New File  		    1050	C:\Fixture\many\src\a\f50.dat
+	    New File  		    1051	C:\Fixture\many\src\a\f51.dat
+	    New File  		    1052	C:\Fixture\many\src\a\f52.dat
+	    New File  		    1053	C:\Fixture\many\src\a\f53.dat
+	    New File  		    1054	C:\Fixture\many\src\a\f54.dat
+	    New File  		    1055	C:\Fixture\many\src\a\f55.dat
+	    New File  		    1056	C:\Fixture\many\src\a\f56.dat
+	    New File  		    1057	C:\Fixture\many\src\a\f57.dat
+	    New File  		    1058	C:\Fixture\many\src\a\f58.dat
+	    New File  		    1059	C:\Fixture\many\src\a\f59.dat
+	    New File  		    1006	C:\Fixture\many\src\a\f6.dat
+	    New File  		    1060	C:\Fixture\many\src\a\f60.dat
+	    New File  		    1061	C:\Fixture\many\src\a\f61.dat
+	    New File  		    1062	C:\Fixture\many\src\a\f62.dat
+	    New File  		    1063	C:\Fixture\many\src\a\f63.dat
+	    New File  		    1064	C:\Fixture\many\src\a\f64.dat
+	    New File  		    1065	C:\Fixture\many\src\a\f65.dat
+	    New File  		    1066	C:\Fixture\many\src\a\f66.dat
+	    New File  		    1067	C:\Fixture\many\src\a\f67.dat
+	    New File  		    1068	C:\Fixture\many\src\a\f68.dat
+	    New File  		    1069	C:\Fixture\many\src\a\f69.dat
+	    New File  		    1007	C:\Fixture\many\src\a\f7.dat
+	    New File  		    1070	C:\Fixture\many\src\a\f70.dat
+	    New File  		    1071	C:\Fixture\many\src\a\f71.dat
+	    New File  		    1072	C:\Fixture\many\src\a\f72.dat
+	    New File  		    1073	C:\Fixture\many\src\a\f73.dat
+	    New File  		    1074	C:\Fixture\many\src\a\f74.dat
+	    New File  		    1075	C:\Fixture\many\src\a\f75.dat
+	    New File  		    1076	C:\Fixture\many\src\a\f76.dat
+	    New File  		    1077	C:\Fixture\many\src\a\f77.dat
+	    New File  		    1078	C:\Fixture\many\src\a\f78.dat
+	    New File  		    1079	C:\Fixture\many\src\a\f79.dat
+	    New File  		    1008	C:\Fixture\many\src\a\f8.dat
+	    New File  		    1080	C:\Fixture\many\src\a\f80.dat
+	    New File  		    1081	C:\Fixture\many\src\a\f81.dat
+	    New File  		    1082	C:\Fixture\many\src\a\f82.dat
+	    New File  		    1083	C:\Fixture\many\src\a\f83.dat
+	    New File  		    1084	C:\Fixture\many\src\a\f84.dat
+	    New File  		    1085	C:\Fixture\many\src\a\f85.dat
+	    New File  		    1086	C:\Fixture\many\src\a\f86.dat
+	    New File  		    1087	C:\Fixture\many\src\a\f87.dat
+	    New File  		    1088	C:\Fixture\many\src\a\f88.dat
+	    New File  		    1089	C:\Fixture\many\src\a\f89.dat
+	    New File  		    1009	C:\Fixture\many\src\a\f9.dat
+	    New File  		    1090	C:\Fixture\many\src\a\f90.dat
+	    New File  		    1091	C:\Fixture\many\src\a\f91.dat
+	    New File  		    1092	C:\Fixture\many\src\a\f92.dat
+	    New File  		    1093	C:\Fixture\many\src\a\f93.dat
+	    New File  		    1094	C:\Fixture\many\src\a\f94.dat
+	    New File  		    1095	C:\Fixture\many\src\a\f95.dat
+	    New File  		    1096	C:\Fixture\many\src\a\f96.dat
+	    New File  		    1097	C:\Fixture\many\src\a\f97.dat
+	    New File  		    1098	C:\Fixture\many\src\a\f98.dat
+	    New File  		    1099	C:\Fixture\many\src\a\f99.dat
+	    New File  		    5001	C:\Fixture\many\src\b\c\g1.dat
+	    New File  		    5010	C:\Fixture\many\src\b\c\g10.dat
+	    New File  		    5011	C:\Fixture\many\src\b\c\g11.dat
+	    New File  		    5012	C:\Fixture\many\src\b\c\g12.dat
+	    New File  		    5013	C:\Fixture\many\src\b\c\g13.dat
+	    New File  		    5014	C:\Fixture\many\src\b\c\g14.dat
+	    New File  		    5015	C:\Fixture\many\src\b\c\g15.dat
+	    New File  		    5016	C:\Fixture\many\src\b\c\g16.dat
+	    New File  		    5017	C:\Fixture\many\src\b\c\g17.dat
+	    New File  		    5018	C:\Fixture\many\src\b\c\g18.dat
+	    New File  		    5019	C:\Fixture\many\src\b\c\g19.dat
+	    New File  		    5002	C:\Fixture\many\src\b\c\g2.dat
+	    New File  		    5020	C:\Fixture\many\src\b\c\g20.dat
+	    New File  		    5021	C:\Fixture\many\src\b\c\g21.dat
+	    New File  		    5022	C:\Fixture\many\src\b\c\g22.dat
+	    New File  		    5023	C:\Fixture\many\src\b\c\g23.dat
+	    New File  		    5024	C:\Fixture\many\src\b\c\g24.dat
+	    New File  		    5025	C:\Fixture\many\src\b\c\g25.dat
+	    New File  		    5026	C:\Fixture\many\src\b\c\g26.dat
+	    New File  		    5027	C:\Fixture\many\src\b\c\g27.dat
+	    New File  		    5028	C:\Fixture\many\src\b\c\g28.dat
+	    New File  		    5029	C:\Fixture\many\src\b\c\g29.dat
+	    New File  		    5003	C:\Fixture\many\src\b\c\g3.dat
+	    New File  		    5030	C:\Fixture\many\src\b\c\g30.dat
+	    New File  		    5031	C:\Fixture\many\src\b\c\g31.dat
+	    New File  		    5032	C:\Fixture\many\src\b\c\g32.dat
+	    New File  		    5033	C:\Fixture\many\src\b\c\g33.dat
+	    New File  		    5034	C:\Fixture\many\src\b\c\g34.dat
+	    New File  		    5035	C:\Fixture\many\src\b\c\g35.dat
+	    New File  		    5036	C:\Fixture\many\src\b\c\g36.dat
+	    New File  		    5037	C:\Fixture\many\src\b\c\g37.dat
+	    New File  		    5038	C:\Fixture\many\src\b\c\g38.dat
+	    New File  		    5039	C:\Fixture\many\src\b\c\g39.dat
+	    New File  		    5004	C:\Fixture\many\src\b\c\g4.dat
+	    New File  		    5040	C:\Fixture\many\src\b\c\g40.dat
+	    New File  		    5041	C:\Fixture\many\src\b\c\g41.dat
+	    New File  		    5042	C:\Fixture\many\src\b\c\g42.dat
+	    New File  		    5043	C:\Fixture\many\src\b\c\g43.dat
+	    New File  		    5044	C:\Fixture\many\src\b\c\g44.dat
+	    New File  		    5045	C:\Fixture\many\src\b\c\g45.dat
+	    New File  		    5046	C:\Fixture\many\src\b\c\g46.dat
+	    New File  		    5047	C:\Fixture\many\src\b\c\g47.dat
+	    New File  		    5048	C:\Fixture\many\src\b\c\g48.dat
+	    New File  		    5049	C:\Fixture\many\src\b\c\g49.dat
+	    New File  		    5005	C:\Fixture\many\src\b\c\g5.dat
+	    New File  		    5050	C:\Fixture\many\src\b\c\g50.dat
+	    New File  		    5006	C:\Fixture\many\src\b\c\g6.dat
+	    New File  		    5007	C:\Fixture\many\src\b\c\g7.dat
+	    New File  		    5008	C:\Fixture\many\src\b\c\g8.dat
+	    New File  		    5009	C:\Fixture\many\src\b\c\g9.dat
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         4         4         0         0         0         0
+   Files :       202       202         0         0         0         0
+   Bytes :  50412600  50412600         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           951,181,132 Bytes/sec.
+   Speed :            54,427.020 MegaBytes/min.
+   Ended : Thursday, October 8, 2026 3:27:21 PM
+
