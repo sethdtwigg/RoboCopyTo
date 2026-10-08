@@ -15,6 +15,8 @@
 2. Double-click `RoboCopyTo.exe` and answer **Yes** to install. No admin rights needed.
 3. Right-click any file or folder → **Show more options → RoboCopyTo...**
 
+![RoboCopyTo... in the Explorer right-click menu](docs/images/context-menu.png)
+
 If SmartScreen says "Windows protected your PC", choose **More info → Run anyway** (the exe is not code-signed). Requires Windows 11 (x64); Windows 10 may work but is untested.
 
 ## Features
