@@ -8,7 +8,7 @@
 
 **RoboCopyTo** is a free Windows 11 file copy tool that adds a **RoboCopyTo...** item to the Explorer right-click menu. It opens one dialog where you build, preview, dry-run, and run `robocopy` copies, so you never have to remember robocopy syntax and you always see the exact command that will run. Use it as a context menu copy utility, a safe robocopy wrapper, or a simple backup tool for Windows.
 
-![RoboCopyTo main dialog](docs/images/main-dialog.png)
+![RoboCopyTo main dialog](docs/images/main-dialog-v2.png)
 
 ## Quick start
 
